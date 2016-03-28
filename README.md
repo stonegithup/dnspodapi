@@ -1,2 +1,2 @@
 # dnspodapi
-dnspod api 接口 
+python版 dnspod api 接口 
